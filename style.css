@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titlebar{
+    color: #1a2628;
+    text-align: center;
+    padding: 10px;
+}
+
+body{
+    font-family: "Poppins", serif;
+    background-color: darkgreen;
+    
+}
+
+.container {
+
+display: flex;
+flex-wrap: wrap;
+
+
+
+}
+
+.container div{
+    
+
+color: white;
+margin: 5px;
+flex-basis: 20%;
+flex-grow: 1;
+}
+
+
